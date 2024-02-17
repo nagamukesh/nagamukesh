@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naga Mukesh</h1>
 <h3 align="center">A passionate Deep learning enthusiastic from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagamukesh&label=Profile%20views&color=0e75b6&style=flat" alt="nagamukesh" /> </p>
 
 - 🔭 I’m currently working on [Airwise](https://github.com/nagamukesh/Airwise)
 
