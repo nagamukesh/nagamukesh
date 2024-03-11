@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Airwise](https://github.com/nagamukesh/Airwise)
 
-- 🌱 I’m currently learning **PostgreSQL,React,Langchains,PostMan,Unity**
+- 🌱 I’m currently learning **React,Langchains,PostMan,Unity**
 
 - 📫 How to reach me **konathamnagamukesh.221cs132@nitk.edu.in**
 
