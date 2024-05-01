@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Deep learning enthusiastic from India</h3>
 
 
-- 🔭 I’m currently working on [Airwise](https://github.com/nagamukesh/Airwise)
-
-- 🌱 I’m currently learning **React,Langchains,PostMan,Unity**
+- 🔭 I’m currently working on [Vision Kinect](https://github.com/Vishy70/Vision-Kinect)
 
 - 📫 How to reach me **konathamnagamukesh.221cs132@nitk.edu.in**
 
