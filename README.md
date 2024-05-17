@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naga Mukesh</h1>
-<h3 align="center">A passionate Deep learning enthusiastic from India</h3>
+<h3 align="center">A passionate Deep learning enthusiast from India</h3>
 
 - 📫 How to reach me **konathamnagamukesh.221cs132@nitk.edu.in**
 
